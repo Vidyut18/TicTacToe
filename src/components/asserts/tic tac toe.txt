@@ -1,0 +1,2 @@
+cd c:\Office 2021
+setup /configure configuration.xml
